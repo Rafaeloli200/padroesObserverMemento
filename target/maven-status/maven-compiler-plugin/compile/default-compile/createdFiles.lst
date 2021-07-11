@@ -1,0 +1,9 @@
+Memento\TripulanteEstadoDisponivel.class
+Memento\Tripulante.class
+Memento\TripulanteEstadoEmVoo.class
+observer\Aeroporto.class
+Memento\TripulanteEstadoDesligado.class
+Memento\EstadoDoTripulante.class
+observer\Voo.class
+Memento\TripulanteEstadoInativo.class
+Memento\TripulanteEstadoExterior.class
